@@ -91,6 +91,7 @@ i{
 /*----- testmonial-area---- */
 .john-slider-area{
     background-image: url(../img/2manpic.jpg);
+    padding-bottom: 15px;
 }
 .single-carousel-right img{
     width: 100px;
