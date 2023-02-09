@@ -110,15 +110,17 @@ i{
 }
 
 
-/*------------ john-experince-area ---------------*/
+/* -----------------------------------------------------
+john-Experience-area
+--------------------------------------------------------*/
 .mehedi::after {
     content: "";
     background-color: #dcdcde;   
     width: 14px;
     height: 62px;
     position: absolute;
-    top: 8px; 
-    left:300px;
+    top: 0px; 
+    left:340px;
   }
 
   .shuvo::before {
@@ -127,9 +129,10 @@ i{
     width: 14px;
     height: 62px;
     position: absolute;
-    top: 15px; 
+    top: 0px; 
     right:340px;
   }
+
 
 
 /* -----------john-blog-area----------------------------------------*/

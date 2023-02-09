@@ -32,4 +32,7 @@
     .shuvo::before {    
         display: none;
     }
+    . mh{
+        align-items: center;
+    }
 }
