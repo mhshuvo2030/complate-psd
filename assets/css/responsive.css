@@ -24,6 +24,10 @@
       .john-banner-area {
         background-position: center 0px;
       }
+      /* ------john-slaider-area -----*/
+      .john-slider-area {
+        padding-bottom: 20px;
+      }
         /* john-Experience-area */
     .mehedi::after {    
         display: none;
